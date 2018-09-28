@@ -9,5 +9,6 @@ def prime?(n)
     end 
   x += 1 
   end
+  return result
 end
   
