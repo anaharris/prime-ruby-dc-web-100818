@@ -3,6 +3,7 @@ def prime?(num)
   x = 2 
   result = true 
   if num > 0 
+    break
     result = false 
   end
     while x <= num/2
