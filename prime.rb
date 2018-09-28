@@ -1,5 +1,6 @@
 
 def prime?(n)
-  x = 2
+  x = 2 
+  
 end
   
