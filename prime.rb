@@ -3,7 +3,7 @@ def prime?(n)
   x = 2 
   result = true 
   
-  while n
+  while x <= num/2 
   
 end
   
