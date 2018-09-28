@@ -5,7 +5,7 @@ def prime?(n)
   
   while x <= num/2 
   
-  if  
+  if num % 
   
   
   end
