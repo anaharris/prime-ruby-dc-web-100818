@@ -9,4 +9,5 @@ def prime?(n)
       n += 1
   end
 end
+end
   
