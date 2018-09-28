@@ -2,7 +2,7 @@
 def prime?(num)
   x = 2 
   result = true 
-  if num > 0 
+  if num < 0 
     result = false 
     break
   end
