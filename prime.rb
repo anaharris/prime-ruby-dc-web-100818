@@ -10,6 +10,7 @@ def prime?(num)
       end 
     x += 1 
     end
+  end
   return result
 end
   
