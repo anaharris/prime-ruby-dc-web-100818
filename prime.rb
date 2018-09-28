@@ -5,6 +5,7 @@ def prime?(n)
     if n % f == 0 
       return false
     else 
+      f += 1 
       return true
       f += 1
   end
