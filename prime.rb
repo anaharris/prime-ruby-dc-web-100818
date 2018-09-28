@@ -1,6 +1,9 @@
 
 def prime?(num)
   if num <= 0 
+    return false 
+    break
+  end
   x = 2 
   result = true 
     while x <= num/2
