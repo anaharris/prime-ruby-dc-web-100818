@@ -10,6 +10,5 @@ def prime?(num)
     x += 1 
     end
   return result
-  end
 end
   
