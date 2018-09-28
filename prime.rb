@@ -2,6 +2,7 @@
 def prime?(num)
   x = 2 
   result = true 
+  while num > 0
   while x <= num/2 
     if num % x == 0 
       result = false 
