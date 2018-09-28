@@ -10,6 +10,7 @@ def prime?(n)
     break
   end 
   
+  x += 1 
   
   end
 end
