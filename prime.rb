@@ -1,6 +1,7 @@
 
 def prime?(n)
   x = 2 
-  flag = true
+  result = true 
+  
 end
   
