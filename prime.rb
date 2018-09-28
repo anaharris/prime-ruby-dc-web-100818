@@ -6,7 +6,7 @@ def prime?(n)
       return true
     else 
       return false
-      n += 1
+      f += 1
   end
 end
 end
