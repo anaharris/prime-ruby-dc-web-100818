@@ -1,5 +1,5 @@
 
-def prime?(n)
+def prime?(num)
   x = 2 
   result = true 
   while x <= num/2 
