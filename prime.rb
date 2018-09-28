@@ -8,6 +8,7 @@ def prime?(n)
   if num % x == 0 
     result = false 
     break
+  end 
   
   
   end
